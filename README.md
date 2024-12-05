@@ -1,6 +1,10 @@
 # QRCode Generator
 
-Uma aplicação em Python para geração de QR Codes com interface gráfica moderna, utilizando a biblioteca `customtkinter`. Este programa permite que o usuário insira dados, gere QR Codes e os visualize diretamente na interface. Os QR Codes são salvos automaticamente em um diretório chamado `qrcodes`.
+Uma aplicação em Python para geração de QR Codes com interface gráfica moderna, utilizando a biblioteca `customtkinter`.
+
+Este programa permite que o usuário insira dados, gere QR Codes e os visualize diretamente na interface. 
+
+Os QR Codes são salvos automaticamente em um diretório chamado `qrcodes`.
 
 ---
 
